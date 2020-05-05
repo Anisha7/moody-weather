@@ -1,5 +1,9 @@
+:root {
+  --var-color-black: #313134;
+}
 .App {
   text-align: center;
+  font-family: monospace;
 }
 
 .App-logo {
